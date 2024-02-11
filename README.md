@@ -6,9 +6,21 @@
 
 # NetflixGPT Structure
 
-- Create Home Page
-- Components (Header,Body,FAQs,Footer)
-- Create Sign up page (After Login UI is changed)
+- Create React App
+- Configure Tailwaind
+- Header
+- Rounting Of App
+- Login form
+- form validation
+- useRef hook
+- firebase setup    
+- firebase deployment
+- Login Authentication 
 
 # Features
-- 
+- Login / Sign form
+    - Sign In /Sign up page
+    - redirect to Browse page
+- Browser
+    - Header 
+    - Main movie 
